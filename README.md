@@ -20,7 +20,7 @@ First time you use this application (and don't have already created model), plea
 What's wrong
 ------------
 
-- current model (mainly 'diretory' CF) is wrong and needs to be redesigned
+- current model (mainly ``diretory`` CF) is wrong and needs to be redesigned
 - there are no unit tests, JavaDoc is missing etc
 - class design is bad
 - it's not possible to configure cassandra connection
