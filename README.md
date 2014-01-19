@@ -24,3 +24,9 @@ What's wrong
 - there are no unit tests, JavaDoc is missing etc
 - class design is bad
 - it's not possible to configure cassandra connection
+
+Wha's missing
+-------------
+
+- user authentication / authorization
+- support for more file storages
